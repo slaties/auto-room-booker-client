@@ -1,0 +1,1 @@
+# auto-room-booker-client
